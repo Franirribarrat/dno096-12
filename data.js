@@ -5,7 +5,7 @@
         "fecha": "2018",
         "signo": "Editorial",
         "foto": "https://github.com/Franirribarrat/dno096-08/blob/main/portafolio_010.png?raw=true",
-        "fotos": ["aves-lafkenche.jpg", "aves-lafkenche-02", "aves-lafkenche-03"],
+        "fotos": ["aves-lafkenche.jpg", "aves-lafkenche-02.jpg", "aves-lafkenche-03.jpg"],
         "github": "https://github.com/franirribarrat"
 
     },
